@@ -34,6 +34,10 @@ We have proposed two approaches based on how the sensors are located.
 
 * ```main_{}.py```/ ```main_{}.ipynb``` - contains python scripts and notebooks for implementing the proposed approaches
 
+## Datasets
+
+The datasets are generated in FEBio. Details of data generation is mentioned in the manuscript.
+
 ## Clone
 
 To clone and use this repository, run the following terminal commands:
