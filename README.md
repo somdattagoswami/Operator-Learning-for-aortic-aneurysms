@@ -1,7 +1,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Methods](#methods)
-* [Application](#application)
 * [Contents](#contents)
 * [Datasets](#datasets)
 * [Clone](#clone)
@@ -19,22 +18,12 @@ We have proposed two approaches based on how the sensors are located.
 * **Sparse Sensor Location** uses 25 or 9 sensor locations to approximate the aneurysm.
 
 <p align="center">
-  <img src="schematics/DeepONet_FNN2.pdf" width="700" />
+  <img src="schematics/DeepONet_FNN2.png" width="700" />
 </p>
 
 * **Full Field Images** uses the entire image but in greyscale format to approximate the aneurysm.
 <p align="center">
-  <img src="schematics/DeepONet_CNN2.pdf" width="700" />
-</p>
-
-## Application
-
-* The **Brusselator** diffusion-reaction dynamical system is studied, which describes an autocatalytic chemical reaction between two substances. 
-* The objective is to approximate the mapping between high-dimensional stochastic initial fields with the evolution of the system across time and space (first row below). The model response is learned for two dynamical states, when the system reaches a **fixed point** in the phase space (second row) and when it reaches a **limit cycle** (third row). 
-* We explore the capabilities of the studied models and test them for various regression tasks including their **extrapolation/generalization** ability (performance to out-of-distribution data), **robustness to noise**, ability to handle complex stochastic inputs and **highly nonlinear** mappings.
-
-<p align="center">
-  <img src="schematics/Application-schematic.png" width="700" />
+  <img src="schematics/DeepONet_CNN2.png" width="700" />
 </p>
 
 ## Contents
