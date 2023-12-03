@@ -36,7 +36,7 @@ We have proposed two approaches based on how the sensors are located.
 
 ## Datasets
 
-The datasets are generated in FEBio. Details of data generation is mentioned in the manuscript.
+The datasets are generated in FEBio. Details of data generation are mentioned in the manuscript.
 
 ## Clone
 
