@@ -13,7 +13,7 @@ Authors: [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAA
 
 ## Methods
 
-* **DeepONet** is a deep neural operator model which allows the construction of mapping between infinite dimensional functions via the use of deep neural networks (DNNs).
+* **DeepONet** is a deep neural operator model that allows the construction of mapping between infinite dimensional functions via the use of deep neural networks (DNNs).
 We have proposed two approaches based on how the sensors are located. 
 * **Sparse Sensor Location** uses 25 or 9 sensor locations to approximate the aneurysm.
 
