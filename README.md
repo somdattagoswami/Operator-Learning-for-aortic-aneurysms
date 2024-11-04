@@ -7,10 +7,9 @@
 
 ## General info
 
-This Git repository contains codes for the **'Importance of localized dilatation and distensibility in identifying thoracic aortic aneurysm contributors with neural operators'** paper which can be found here: [Link](link_url).
+This Git repository contains codes for the **'Neural operator learning of heterogeneous mechanobiological insults contributing to aortic aneurysms'** paper which can be found here: [https://arxiv.org/pdf/2205.03780.pdf](https://arxiv.org/pdf/2205.03780.pdf).
 
-Authors: [David S. Li](https://scholar.google.com/citations?user=5mNu_m4AAAAJ&hl=en),  [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en&oi=sra), [Qianying Cao](https://scholar.google.com/citations?user=OrdbclEAAAAJ&hl=en&oi=ao), [Vivek Ommen](https://scholar.google.com/citations?user=JWbuVUcAAAAJ&hl=en&oi=ao), [Jay D. Humphrey](https://seas.yale.edu/faculty-research/faculty-directory/jay-humphrey), [George Em Karniadakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en)
-
+Authors: [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en&oi=sra), [David S. Li](https://scholar.google.com/citations?user=5mNu_m4AAAAJ&hl=en), [Bruno V. Rego](https://scholar.google.com/citations?user=AUf780sAAAAJ&hl=en), [Marcos Latorre](https://scholar.google.es/citations?user=hF7_7_sAAAAJ&hl=en), [Jay D. Humphrey](https://seas.yale.edu/faculty-research/faculty-directory/jay-humphrey), [George Em Karniadakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en).
 ## Methods
 
 * **DeepONet** is a deep neural operator model that allows the construction of mapping between infinite dimensional functions via the use of deep neural networks (DNNs).
